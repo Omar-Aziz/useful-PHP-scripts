@@ -1,3 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<!-- in action, put the path to the php file if you plan on seperating the html form and the php below. -->
+<form action=""
+      method="POST" enctype="multipart/form-data">
+    <input type="text" name="field1">
+    <input type="text" name="field2">
+    <input type="text" name="field3">
+    <input type="text" name="field4">
+    <input type="text" name="field5">
+    <input type="text" name="field6">
+    <button type="submit" name="submit">Upload</button>
+</form>
+</body>
+</html>
+
+<?php
+
 /* upload text input by user */
 /* i.e., personal info to server */
 /* all input fields will be uploaded to a csv file */
