@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    
+    <!-- include your password generator here or remove html and use it anywhere -->
+    
+</body>
+</html>
+
+<?php
+
 // Randomly generate 12 letter password - includes special characters
 // change length of password by changing number in for loop
 
