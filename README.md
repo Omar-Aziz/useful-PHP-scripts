@@ -1,2 +1,1 @@
-# useful-PHP-scripts
-Having this as a repo for the PHP scripts I use frequently
+### Php scripts that I used during my last semester in college
